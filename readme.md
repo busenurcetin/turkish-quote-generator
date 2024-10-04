@@ -2,8 +2,6 @@
 
 > Bu projeyi JavaScript pratiği yapmak için oluşturdum. Projede sadece HTML, CSS ve JavaScript kullandım.
 
-> Canlı Proje [_tıkla_](https://grocery-website-kappa.vercel.app/).
-
 ## İçerik
 - [Türkçe Alıntı Oluşturucu](#türkçe-alıntı-oluşturucu)
   - [İçerik](#i̇çerik)
